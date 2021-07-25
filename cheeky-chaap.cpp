@@ -4,9 +4,9 @@
 using namespace std;
 int main()
 {
-	char name[30], pizza1[]="Chicken Fazita" ,pizza2[]="Chicken Bar BQ" ,pizza3[]="Peri Peri" ,pizza4[]="Creamy Max", roll1[]="Chicken Chatni Roll", roll2[]="Chicken Mayo Roll", roll3[]="Veg Roll With Fries",bur1[]="Zinger Burger",bur2[]="Chicken Burger",bur3[]="Beef Burger";
-	char sand1[]="Club Sandwich", sand2[]="Chicken Crispy Sandwich", sand3[]="Extream Veg Sandwich";
-	char bir1[]="Chicken Biryani", bir2[]="Prawn Biryani", bir3[]="Beef Biryani",gotostart ;
+	char name[30], pizza1[]="Margherita" ,pizza2[]="Chicken Bar BQ" ,pizza3[]="Peri Peri" ,pizza4[]="Farm House", roll1[]="Chicken Chatni Roll", roll2[]="Chicken Mayo Roll", roll3[]="Veg Roll With Fries",bur1[]="Zinger Burger",bur2[]="Chicken Burger",bur3[]="Aloo Burger";
+	char sand1[]="Club Sandwich", sand2[]="Chicken Crispy Sandwich", sand3[]="Paneer Bhurji Sandwich";
+	char bir1[]="Chicken Biryani", bir2[]="Kolkata biryani", bir3[]="Thalassery biryani",gotostart ;
 	int choice=0,pchoice,pchoice1, quantity;
 	beginning:
 	system("CLS");
