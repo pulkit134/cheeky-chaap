@@ -52,8 +52,7 @@ int main()
 			case 3: choice = 900*quantity;
 			break;
 
-
-			      }
+			 }
 			system("CLS");
 			switch (pchoice1)
 			{
@@ -211,8 +210,8 @@ int main()
 			  goto beginning;
 			  return 0;
 			}
-			}
-			}
+		}
+	}
 
 
 	 else if(choice==4)
